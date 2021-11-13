@@ -1,0 +1,11 @@
+Download Link => https://git-scm.com/downloads
+git installation in Ubuntu => sudo apt install git-all
+
+
+git config --global user.name "typed username of github"
+git config --global user.email "typed email of github"
+
+
+check username and email
+----------------------------
+git config --list

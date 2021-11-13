@@ -1,0 +1,9 @@
+Typed in terminal or cmd to get ssh-key
+------------------------------------------
+
+$ ssh-keygen
+
+Enter 3 Times
+
+$ cat ~/.ssh/id_rsa.pub
+
