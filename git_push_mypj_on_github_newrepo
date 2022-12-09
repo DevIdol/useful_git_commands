@@ -23,7 +23,7 @@ $ git status
 
 $ git add .
 
-$ git branch -m "modified commit"
+$ git commit -m "modified commit"
 
 $ git push
 
